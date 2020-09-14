@@ -7,7 +7,7 @@ This repository builds approaches for bird images classifications using kNN base
 ![alt text](./resources/birds.png)
 
 # How to use:
-Repository contains birdClassificationWithKNNOnEmbeddings.ipynb file, which includes all code that we wrote.
+Repository contains birdClassification.ipynb file, which includes all code that we wrote.
 All needed libraries will be installed during notebook launch. 
 
 # Algorithm description:
