@@ -34,6 +34,20 @@ In our paper we described in details, why our implementation gives better result
 Our model:
 
 ![alt text](./resources/our_model.png)
+
 kNN:
 
 ![alt text](./resources/knn_model.png)
+
+Also, here are matrix for our model and simple knn model.
+Our model:
+
+![alt text](./resources/our_scores.png)
+
+![alt text](./resources/our_matrix.png)
+
+kNN model:
+
+![alt text](./resources/knn_scores.png)
+
+![alt text](./resources/knn_matrix.png)
