@@ -48,6 +48,9 @@ Our model:
 
 kNN model:
 
-![alt text](./resources/knn_scores.png)
+![alt text](./resources/scores.jpg)
 
-![alt text](./resources/knn_matrix.png)
+![alt text](./resources/knn_matrix.jpg)
+
+# Analysis and Observations
+As far as it can be seen, even with our ideas and provided improvements, there is still a lot of work to do. During our work, we mentioned that in each picture there is a background that influences the final results. Also, we trained our model not in classes, because we didn't have enough time. Moreover, the kNN classifier can be tuned in a better way. Unfortunately, we didn't test all possible metrics. What's more, we don't exclude the possibility that auto-encoder architecture can be improved(we also didn't have enough time to test different configurations). There are lots of possible improvements, which we didn't try because of lack of time.
