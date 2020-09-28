@@ -30,7 +30,10 @@ The model was trained on 100 classes with 20 000 samples on 2 000 test images. W
 
 # Experiments and Evaluation
 In our paper we described in details, why our implementation gives better results than alternatives. So, here we provide comparison between our implemented model and simple kNN with resized images.
+
 Our model:
+
 ![alt text](./resources/our_model.png)
 kNN:
+
 ![alt text](./resources/knn_model.png)
